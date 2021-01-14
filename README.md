@@ -1,5 +1,5 @@
 # LeeAutoDiskChart
-Here is a sqlite script to create Lee Auto Disk combinations for specific powders
+Here is a sqlite script to create Lee Auto Disk combinations for specific powders and it's results. Powders are weighted in grains.
 
 I'm trying to load [this product](https://leeprecision.com/pro-auto-disk.html)from LEE Precision, Inc
 and I'm using data published by them to populate the chart, all copyright to them.
